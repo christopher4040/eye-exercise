@@ -1,10 +1,10 @@
 # Eye Exercise
 
 ## Description
-This is a fun website of a face with two eyes that follows your mouse pointer all around your screen.
+This is a fun website of a face with two eyes that follows your mouse pointer all around the screen.
 
 ## Usage 
-You can click on [eye-exercise](https://christopher4040.github.io/eye-exercise/) to view the live website. 
+You can click on [eye-exercise](https://christopher4040.github.io/eye-exercise/) to look at the website. 
 
 ## Roadmap
 - Add animation to other parts
